@@ -52,8 +52,18 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/arjunsakthi/leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/arjunsakthi/leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

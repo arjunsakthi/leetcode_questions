@@ -40,6 +40,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +89,12 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+## String
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->

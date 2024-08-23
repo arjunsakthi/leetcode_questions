@@ -1,14 +1,13 @@
 class Solution {
 public:
-    string fractionAddition(string expression) {
-        int num = 0;
-        int denom = 1;
+    string fractionAddition(string exp) {
+        int num = 0, denom = 1;
 
         int i = 0;
-        while (i < expression.size()) {
-            auto [currNum, currDenom] = parseFraction(expression, i);
-            num = num * currDenom + currNum * denom;
-            denom = denom * currDenom;
+        while (i < exp.size()) {
+            auto [n, d] = parseFraction(exp, i);
+            num = num * d + n * denom;
+            denom *= d;
         }
 
         int gcd = abs(computeGCD(num, denom));
@@ -17,38 +16,33 @@ public:
 
         return to_string(num) + "/" + to_string(denom);
     }
-    
+
     int computeGCD(int a, int b) {
         return b == 0 ? a : computeGCD(b, a % b);
     }
 
-    pair<int, int> parseFraction(const string &expression, int &index) {
-        int numerator = 0;
-        int denominator = 0;
-        bool isNegative = false;
+    pair<int, int> parseFraction(const string &exp, int &idx) {
+        int n = 0, d = 0;
+        bool neg = false;
 
-        if (expression[index] == '-' || expression[index] == '+') {
-            if (expression[index] == '-') {
-                isNegative = true;
-            }
-            index++;
+        if (exp[idx] == '-' || exp[idx] == '+') {
+            neg = (exp[idx] == '-');
+            idx++;
         }
 
-        while (isdigit(expression[index])) {
-            numerator = numerator * 10 + (expression[index] - '0');
-            index++;
+        while (isdigit(exp[idx])) {
+            n = n * 10 + (exp[idx] - '0');
+            idx++;
         }
 
-        if (isNegative) {
-            numerator *= -1;
+        if (neg) n *= -1;
+
+        idx++;
+        while (idx < exp.size() && isdigit(exp[idx])) {
+            d = d * 10 + (exp[idx] - '0');
+            idx++;
         }
 
-        index++;
-        while (index < expression.size() && isdigit(expression[index])) {
-            denominator = denominator * 10 + (expression[index] - '0');
-            index++;
-        }
-
-        return {numerator, denominator};
+        return {n, d};
     }
 };

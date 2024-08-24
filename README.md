@@ -39,6 +39,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/arjunsakthi/leetcode_questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/arjunsakthi/leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/arjunsakthi/leetcode_questions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |

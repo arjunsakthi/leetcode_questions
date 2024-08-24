@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int f_rec(vector<string>& words, vector<int>& count,int i, vector<int>& score) {
+    int f_rec(vector<string>& words, vector<int>& count,int i, vector<int>& score, vector<int> dp) {
         if(i == words.size()){
             return 0;
         }
@@ -17,23 +17,25 @@ public:
                 break;
             }
         }
-        int nottake = f_rec(words, count, i+1, score);
+        if(dp[i] != -1) return dp[i];
+        int nottake = f_rec(words, count, i+1, score, dp);
         int take;
         if(scores == 0){
             take =  nottake;
         }
         else{
-            take = scores + f_rec(words, mps, i+1, score);
+            take = scores + f_rec(words, mps, i+1, score, dp);
         }
         // cout << max(take, nottake)<<endl;
-        return max(take, nottake);
+        return dp[i] = max(take, nottake);
 
     }
     int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& score) {
         vector<int> count(26,0);
+        vector<int> dp(words.size(),-1);
         for(int i=0; i<letters.size(); i++){
             count[letters[i] - 'a']++;   
         }
-        return f_rec(words, count, 0, score);
+        return f_rec(words, count, 0, score, dp);
     }
 };

@@ -49,6 +49,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Memoization
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Matrix
 |  |
 | ------- |
@@ -93,8 +95,21 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
+## Backtracking
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->

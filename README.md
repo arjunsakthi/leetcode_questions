@@ -83,6 +83,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
@@ -105,6 +106,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Bit Manipulation
 |  |

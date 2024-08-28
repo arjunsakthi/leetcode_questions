@@ -9,17 +9,15 @@ public:
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
         int k=0, i=0;
-        int c=0;
         while(i<g.size()){
             if(k == s.size()){
                break;
             }
             if(g[i]<=s[k]){
-                c++;
                 i++;
             }
             k++;
         }
-        return c;
+        return i;
     }
 };

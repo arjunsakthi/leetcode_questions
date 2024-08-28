@@ -9,10 +9,7 @@ public:
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
         int k=0, i=0;
-        while(i<g.size()){
-            if(k == s.size()){
-               break;
-            }
+        while(i<g.size() && k < s.size()){
             if(g[i]<=s[k]){
                 i++;
             }

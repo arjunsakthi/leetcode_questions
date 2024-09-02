@@ -15,27 +15,19 @@ public:
         queue<TreeNode *> allNodes;
         allNodes.push(root);
         vector<vector<int>> ans;
-        vector<int> level;
-        int k = 1;
-        int count = 0;
+        
         if(root == NULL) return {};
         while(!allNodes.empty()){
-            TreeNode *temp = allNodes.front();
-            level.push_back(temp->val);
-            if(temp->left != NULL){
-                allNodes.push(temp->left);
-            }  
-            count++;
-            allNodes.pop();
-            if(temp->right != NULL)  allNodes.push(temp->right);
-            if(k == count){
-                k = allNodes.size();
-                count = 0;
-                ans.push_back(level);
-                level.clear();
+            int s = allNodes.size();
+            vector<int> level;
+            for(int i=0; i<s; i++){
+                TreeNode *temp = allNodes.front();
+                allNodes.pop();
+                if(temp->left != NULL)  allNodes.push(temp->left);            
+                if(temp->right != NULL)  allNodes.push(temp->right);
+                level.push_back(temp->val);
             }
-            
-            
+            ans.push_back(level);           
         }
         return ans;
     }

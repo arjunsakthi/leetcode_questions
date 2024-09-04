@@ -25,24 +25,30 @@ public:
         vector<int> ans;
         // f(root, ans);
         // return ans;
-        stack<TreeNode*> s1,s2;
-        s1.push(root);
+        stack<TreeNode*> s1;
         TreeNode* curr = root;
-        if(root == NULL)return {};
-        while(!s1.empty()){
-            curr = s1.top();
-            s1.pop();
-            s2.push(curr);
-            if(curr->left != NULL){
-                s1.push(curr->left);
+        if(root == NULL)    return {};
+        while(!s1.empty() || curr != NULL){
+            if(curr != NULL){
+                s1.push(curr);
+                curr = curr->left;
             }
-            if(curr->right != NULL){
-                s1.push(curr->right);
-            }   
-        }
-        while(!s2.empty()){
-            ans.push_back(s2.top()->val);
-            s2.pop();
+            else{
+                TreeNode* temp = s1.top()->right;
+                if(temp == NULL){
+                    temp = s1.top();
+                    ans.push_back(temp->val);
+                    s1.pop();
+                    while(!s1.empty() && temp == s1.top()->right){
+                        temp = s1.top();
+                        s1.pop();
+                        ans.push_back(temp->val);
+                    }
+                }
+                else{
+                    curr = temp;
+                }
+            }
         }
         return ans;
     }

@@ -22,7 +22,9 @@ public:
     }
 
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> ans;
+        vector<int> preorder;
+        vector<int> postorder;
+        vector<int> inorder;
         // f(root, ans);
         // return ans;
         stack<TreeNode*> s1;
@@ -31,18 +33,20 @@ public:
         while(!s1.empty() || curr != NULL){
             if(curr != NULL){
                 s1.push(curr);
+                preorder.push_back(curr->val);
                 curr = curr->left;
             }
             else{
                 TreeNode* temp = s1.top()->right;
+                inorder.push_back(s1.top()->val);
                 if(temp == NULL){
                     temp = s1.top();
-                    ans.push_back(temp->val);
+                    postorder.push_back(temp->val);
                     s1.pop();
                     while(!s1.empty() && temp == s1.top()->right){
                         temp = s1.top();
                         s1.pop();
-                        ans.push_back(temp->val);
+                        postorder.push_back(temp->val);
                     }
                 }
                 else{
@@ -50,6 +54,6 @@ public:
                 }
             }
         }
-        return ans;
+        return postorder;
     }
 };

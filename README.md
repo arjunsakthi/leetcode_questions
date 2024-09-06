@@ -137,6 +137,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0110-balanced-binary-tree) |
@@ -149,6 +150,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -160,6 +162,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0110-balanced-binary-tree) |
@@ -178,6 +181,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->

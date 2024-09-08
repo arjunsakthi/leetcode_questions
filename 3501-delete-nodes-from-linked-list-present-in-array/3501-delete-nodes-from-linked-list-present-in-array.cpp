@@ -14,7 +14,7 @@ public:
         ListNode *prev = new ListNode(0,head);
         ListNode *save = prev;
         ListNode *curr = head;
-        unordered_map<int,int> ns;
+        map<int,int> ns;
         for(auto i:nums)ns[i]++;
         while(curr != NULL){
             if(ns.find(curr->val) != ns.end()){

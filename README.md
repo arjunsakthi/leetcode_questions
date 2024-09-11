@@ -139,6 +139,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Bitmask
 |  |
 | ------- |

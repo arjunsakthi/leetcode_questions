@@ -47,6 +47,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
@@ -81,12 +82,14 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -104,6 +107,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
@@ -245,4 +249,8 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

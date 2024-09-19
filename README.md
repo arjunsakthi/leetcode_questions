@@ -41,6 +41,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0050-powx-n](https://github.com/arjunsakthi/leetcode_questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -53,6 +54,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
@@ -63,6 +65,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0025-reverse-nodes-in-k-group](https://github.com/arjunsakthi/leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/arjunsakthi/leetcode_questions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +140,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |

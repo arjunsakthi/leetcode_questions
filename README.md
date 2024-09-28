@@ -53,6 +53,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/arjunsakthi/leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
@@ -115,6 +116,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/arjunsakthi/leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |

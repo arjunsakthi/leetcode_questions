@@ -1,39 +1,33 @@
 class Solution {
 public:
-    int f(int i, int j,vector<vector<int>>& grid, vector<vector<int>>& dp){
-        if(i == 0 && j == 0){
+    int func(int row, int col, vector<vector<int>>& grid ){
+        if(row == 0 && col == 0){
             return grid[0][0];
         }
-        if(i < 0 || j < 0) return INT_MAX;
-        int left = INT_MAX;
-        if(dp[i][j] != -1) return dp[i][j];
-        if(j>0)
-        left = grid[i][j]+f(i,j-1,grid,dp);
-        int up = INT_MAX;
-        if(i>0)
-        up = grid[i][j]+f(i-1,j,grid,dp);
-        return dp[i][j] = min(left,up);
+        int val = grid[row][col];
+        int up=INT_MAX, left =INT_MAX;
+        if(row > 0)
+        up = func(row-1,col,grid);
+        if(col > 0)
+        left = func(row,col-1,grid);
+        return min(up, left)+val;
     }
     int minPathSum(vector<vector<int>>& grid) {
-        int row = grid.size();
-        int col = grid[0].size();
-        vector<vector<int>> dp(row, vector<int>(col, -1));
-        vector<int> prev(col,0);
-        for(int i=0; i<row; i++){
-            vector<int> curr(col,0);
-            for(int j=0; j<col; j++){
-                if(i == 0 && j == 0) curr[j]=grid[0][0];
-                else{   
-                    if(i == 0) curr[j] = grid[i][j]+curr[j-1];
-                    else if(j == 0) curr[j] = grid[i][j]+prev[j];
-                    else{
-                        curr[j] = min(grid[i][j]+prev[j],grid[i][j]+curr[j-1]);
-                    }
-                }
+        // return func(grid.size()-1,grid[0].size()-1,grid);
+        vector<vector<int>> dp(grid.size(),vector<int>(grid[0].size(),-1));
+        dp[0][0] = grid[0][0];
+        for(int i=0; i<grid.size();i++){
+            for(int j=0;j<grid[0].size();j++){
+                int val = grid[i][j];
+                int up=INT_MAX, left =INT_MAX;
+                if(i > 0)
+                up = dp[i-1][j];
+                if(j > 0)
+                left = dp[i][j-1];
+                if(!(i==0 && j==0))
+                dp[i][j] = min(up,left)+val;
             }
-            prev = curr;
         }
-        return prev[col-1];
-        return f(row-1,col-1,grid,dp);
+        return dp[grid.size()-1][grid[0].size()-1];
     }
 };

@@ -11,10 +11,33 @@
  */
 class Solution {
 public:
+    bool rec(TreeNode* root, vector<int> paths, vector<string> &ans){
+        if(root == NULL){
+            return false;
+        }
+        paths.push_back(root->val);
+        bool left = rec(root->left,paths,ans);
+        bool right = rec(root->right,paths,ans);
+        if(left == NULL&& right == NULL){
+            string kk="";
+            for(int i=0; i<paths.size()-1;i++){
+            kk += to_string(paths[i]);
+            kk+= "->";
+            }
+            kk+= to_string(paths[paths.size()-1]);
+            ans.push_back(kk);
+        
+        }
+        return true;
+    }
+
+
     vector<string> binaryTreePaths(TreeNode* root) {
         stack<TreeNode*> st;
         vector<int> paths;
         vector<string> ans;
+        rec(root, paths,ans);
+        return ans;
         st.push(root);
         paths.push_back(root->val);
         TreeNode *temp = root->left;

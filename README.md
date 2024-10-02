@@ -107,6 +107,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
@@ -193,6 +194,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +252,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/arjunsakthi/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
 | ------- |

@@ -1,23 +1,14 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        double y = 1;
-        if(n == 0)  return 1;
-        if(n<0){
-            x = 1/x;
+        double ans=1;
+        int k = abs(n);
+        while(k>0){
+            if(k%2) ans = ans*x;
+            if(k == 0)  break;
+            k=k/2;
+            x =x* x;
         }
-        n = abs(n);
-        while(n>1){
-            if(n%2 == 0){
-                x = x*x;
-                n=n/2;
-            }
-            else{
-                y = y*x;
-                n=n-1;
-            }
-        }
-        return y*x;
+        return n<0?1/(ans):ans;
     }
 };
-

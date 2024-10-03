@@ -107,6 +107,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
@@ -127,6 +128,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/arjunsakthi/leetcode_questions/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arjunsakthi/leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -262,6 +264,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
 ## Brainteaser
 |  |
 | ------- |

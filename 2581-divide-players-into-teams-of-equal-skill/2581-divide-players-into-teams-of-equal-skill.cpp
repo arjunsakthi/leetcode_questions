@@ -1,17 +1,17 @@
 class Solution {
 public:
-    long long dividePlayers(vector<int>& skill) {
-        long long totalsum = 0;
-        for(int i=0;i<skill.size(); i++){
-            totalsum += skill[i];
+    long long dividePlayers(vector<int>& s) {
+        int t = 0;
+        for(int i = 0; i < s.size(); i++) {
+            t += s[i];
         }   
-        long long productsum = 0;
-        sort(skill.begin(),skill.end());
-        int requiredsum = skill[0] + skill[skill.size()-1]; 
-        for(int j=0; j<skill.size()/2;j++){
-            if(skill[j] + skill[skill.size()-j-1] != requiredsum) return -1;
-            productsum += skill[j]*skill[skill.size()-j-1];
+        long long p = 0;
+        sort(s.begin(), s.end());
+        int r = s[0] + s[s.size() - 1]; 
+        for(int j = 0; j < s.size() / 2; j++) {
+            if(s[j] + s[s.size() - j - 1] != r) return -1;
+            p += s[j] * s[s.size() - j - 1];
         }
-        return productsum;
+        return p;
     }
 };

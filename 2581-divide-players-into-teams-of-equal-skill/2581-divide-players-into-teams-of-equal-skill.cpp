@@ -7,8 +7,7 @@ public:
         }   
         long long productsum = 0;
         sort(skill.begin(),skill.end());
-        if(totalsum%(skill.size()/2) != 0)  return -1;
-        int requiredsum = totalsum/(skill.size()/2); 
+        int requiredsum = skill[0] + skill[skill.size()-1]; 
         for(int j=0; j<skill.size()/2;j++){
             if(skill[j] + skill[skill.size()-j-1] != requiredsum) return -1;
             productsum += skill[j]*skill[skill.size()-j-1];

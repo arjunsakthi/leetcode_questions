@@ -154,6 +154,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -202,6 +203,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0145-binary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/arjunsakthi/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -219,6 +221,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0145-binary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/arjunsakthi/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -240,6 +243,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0145-binary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/arjunsakthi/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -265,6 +269,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/arjunsakthi/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
@@ -294,4 +299,8 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->

@@ -102,6 +102,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0145-binary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,12 +165,14 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1923-sentence-similarity-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/arjunsakthi/leetcode_questions/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |

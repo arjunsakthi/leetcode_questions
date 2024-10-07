@@ -210,6 +210,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0199-binary-tree-right-side-view](https://github.com/arjunsakthi/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -251,6 +252,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0199-binary-tree-right-side-view](https://github.com/arjunsakthi/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -314,5 +316,6 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

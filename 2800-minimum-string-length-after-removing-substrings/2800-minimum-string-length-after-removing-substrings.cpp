@@ -9,13 +9,11 @@ public:
             if(s[i] == 'A' && s[i+1] == 'B'){
                 s.erase(s.begin()+i,s.begin()+i+2);
                 i=0;
-                 k = s.size()-1;
                 continue;
             }
             if(s[i] == 'C' && s[i+1] == 'D'){
                  s.erase(s.begin()+i,s.begin()+i+2);
                  i=0;
-                  k = s.size()-1;
                  continue;
             }
             i++;

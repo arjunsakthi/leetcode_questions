@@ -157,6 +157,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
@@ -321,4 +322,8 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -39,6 +39,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/arjunsakthi/leetcode_questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -106,6 +107,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0141-linked-list-cycle) |
@@ -154,6 +156,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |

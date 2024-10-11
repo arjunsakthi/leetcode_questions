@@ -45,6 +45,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
+| [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1923-sentence-similarity-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Simulation
@@ -286,6 +288,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
+| [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |

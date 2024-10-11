@@ -174,6 +174,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -370,6 +371,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0812-rotate-string) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |

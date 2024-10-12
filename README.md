@@ -132,6 +132,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
@@ -350,6 +351,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Design
@@ -360,6 +362,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/arjunsakthi/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |

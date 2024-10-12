@@ -1,16 +1,17 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& intervals) {
-        vector<long long> hash(10000005,0);
+        vector<pair<int,int>> spp;
         for(int i=0;i<intervals.size();i++){
-            hash[intervals[i][0]] += 1;
-            hash[intervals[i][1]+1] += -1;
+            spp.push_back({intervals[i][0],1});
+            spp.push_back({intervals[i][1]+1,-1});
         }
-        long long maxi=0;
-        for(int i=1;i<10000005;i++){
-            hash[i] += hash[i-1];
-            maxi = max(hash[i],maxi);
+        sort(spp.begin(),spp.end());
+        int maxi=0,cnt=0;
+        for(int i=0;i<spp.size();i++){
+            cnt += spp[i].second;
+            maxi = max(maxi, cnt);
         }
-        return (int)maxi;
+        return maxi;
     }
 };

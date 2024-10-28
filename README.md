@@ -61,6 +61,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
@@ -187,6 +188,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0812-rotate-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |

@@ -47,6 +47,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
 |  |
 | ------- |
@@ -339,6 +342,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |

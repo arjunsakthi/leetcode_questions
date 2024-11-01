@@ -2,21 +2,30 @@ class Solution {
 public:
     bool rotateString(string s, string goal) {
         if(s.size() != goal.size()) return false;
-        for(int i=0; i<s.size();i++){
-            int k=0;
-            for(int j=i; j<s.size();j++){
-                if(goal[k] != s[j]) break;
-                k++;
+        int i=0;
+        int k=0;
+        while(i<goal.size()){
+            if(goal[i] == s[0]){
+                int j=i;
+                while(j<goal.size() && goal[j] == s[k]){
+                    j++;
+                    k++;
+                }
+                if(j == goal.size()){
+                    j=0;
+                    while(k<s.size() && goal[j] == s[k]){
+                        j++;
+                        k++;
+                    }
+                    if(k == goal.size())    return true;
+
+                }
+                k=0;
+                i++;
             }
-            cout << i << k <<goal.size()<<endl;
-            if(k == 0)  continue;
-            
-            for(int j=0;j<i;j++){
-                if(goal[k] != s[j]) break;
-                k++;
+            else{
+                i++;
             }
-            if(k == goal.size())    return true;
-            
         }
         return false;
     }

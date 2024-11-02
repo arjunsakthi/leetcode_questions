@@ -54,6 +54,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -182,6 +183,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0008-string-to-integer-atoi](https://github.com/arjunsakthi/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |

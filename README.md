@@ -52,6 +52,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
@@ -91,6 +92,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/arjunsakthi/leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/arjunsakthi/leetcode_questions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -183,6 +185,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0008-string-to-integer-atoi](https://github.com/arjunsakthi/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
@@ -317,6 +320,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |

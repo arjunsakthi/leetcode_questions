@@ -178,6 +178,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arjunsakthi/leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -245,6 +246,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arjunsakthi/leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bitmask
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Breadth-First Search
 |  |
 | ------- |

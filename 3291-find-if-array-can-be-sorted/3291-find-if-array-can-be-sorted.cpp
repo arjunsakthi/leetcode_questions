@@ -1,18 +1,25 @@
 class Solution {
 public:
     bool canSortArray(vector<int>& nums) {
+        vector<int> bitCount(nums.size());
         for(int i=0; i<nums.size(); i++){
-            for(int j=i+1; j<nums.size(); j++){
-                if(nums[i]> nums[j]){
-                    int count1 =0;
-                    int count2 = 0;
-                    for(int k=0; k<14; k++){
-                        if(nums[i]&(1<<k))  count1++;
-                        if(nums[j]&(1<<k))  count2++;
-                    }
-                    if(count1 != count2)    return false;
-                }
+            bitCount[i] = __builtin_popcount(nums[i]);
+        }
+        int i=0;
+        int mini = INT_MAX;
+        int maxi = INT_MIN;
+        int prevmaxi = INT_MIN;
+        while(i<nums.size()){
+            int k = bitCount[i];
+            while(i<nums.size() && bitCount[i] == k){
+                mini = min(nums[i],mini);
+                maxi = max(nums[i],maxi);
+                i++;
             }
+            if(mini < prevmaxi) return false;
+            prevmaxi = maxi;
+            maxi = INT_MIN;
+            mini = INT_MAX;
         }
         return true;
     }

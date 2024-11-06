@@ -65,6 +65,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0198-house-robber](https://github.com/arjunsakthi/leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arjunsakthi/leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
@@ -159,6 +160,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/arjunsakthi/leetcode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/arjunsakthi/leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arjunsakthi/leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
@@ -408,6 +410,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0098-validate-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/arjunsakthi/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |

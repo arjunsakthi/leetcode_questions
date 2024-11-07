@@ -29,16 +29,19 @@ if(s1.size() != s2.size()+1)
     }
     int longestStrChain(vector<string>& words) {
         vector<int> dp(words.size(),1);
-        sort(words.begin(), words.end(),comp);
+        sort(words.begin(), words.end(),[](string &word1, string &word2){
+            return word1.size() < word2.size();
+        });
         int maxi = 1;
         int n = words.size();
         for(int i=0; i<n;i++){
             for(int j=0; j<i; j++){
                 if(lcs(words[i],words[j])){
                     dp[i] = max(dp[i],dp[j]+1);
-                    maxi = max(maxi,dp[i]);
+                    
                 }
             }
+            maxi = max(maxi,dp[i]);
         }
         return maxi;
     }

@@ -22,11 +22,14 @@ if(s1.size() != s2.size()+1)
         
         return false;
 }
+    static bool comp(string &s1, string &s2){
+        
+        return s1.size() < s2.size();
+        
+    }
     int longestStrChain(vector<string>& words) {
         vector<int> dp(words.size(),1);
-        sort(words.begin(), words.end(),[](string &word1, string &word2){
-            return word1.size() < word2.size();
-        });
+        sort(words.begin(), words.end(),comp);
         int maxi = 1;
         int n = words.size();
         for(int i=0; i<n;i++){

@@ -1,40 +1,55 @@
 class Solution {
 public:
-bool lcs(string s1, string s2) {
-    int n = s1.size();
-    int m = s2.size();
-    if(n >= m)  return false;
-    if(m-n != 1)   return false;
-    int k=1;
-    int l=0;
-    int i=0;
-    while(i<n){
-        if(s1[i] != s2[l]){
-            if(k == 0)  return false;
-            l++;
-            k--;
+    
+    bool checkPossible(string &s1, string &s2){
+        
+        if(s1.size() != s2.size()+1) 
+            return false;
+        
+        int first = 0;
+        int second = 0;
+        
+        while(first < s1.size()){
+            
+            if(s1[first] == s2[second] && second < s2.size()){
+                first++;
+                second++;
+            }else{
+                first++;
+            }
         }
-        else{
- l++;i++;
-        }
-           
+        
+        if(first == s1.size() && second == s2.size()) 
+            return true;
+        
+        return false;
     }
-    return true;
-}
+    
+    static bool comp(string &s1, string &s2){
+        
+        return s1.size() < s2.size();
+        
+    }
+    
+    
     int longestStrChain(vector<string>& words) {
-        vector<int> dp(words.size(),1);
-        sort(words.begin(), words.end(),[](string &word1, string &word2){
-            return word1.size() < word2.size();
-        });
-        int maxi = 1;
+        
+        sort(words.begin(),words.end(),comp);
         int n = words.size();
-        for(int i=0; i<n;i++){
-            for(int j=0; j<i; j++){
-                if(lcs(words[j],words[i])){
-                    dp[i] = max(dp[i],dp[j]+1);
-                    maxi = max(maxi,dp[i]);
+        vector<int> dp(n,1);
+        int maxi = 1;
+        
+        for(int i=1 ; i<n ; i++){
+          
+            for(int prev=0 ; prev<i ; prev++){
+                
+                if(checkPossible(words[i], words[prev])){
+                    
+                    dp[i] =  max(dp[i] , 1 + dp[prev]);
                 }
             }
+            
+            maxi = max(maxi, dp[i]);
         }
         return maxi;
     }

@@ -27,7 +27,8 @@ bool lcs(string s1, string s2) {
             return word1.size() < word2.size();
         });
         int maxi = 1;
-        for(int i=0; i<words.size();i++){
+        int n = words.size();
+        for(int i=0; i<n;i++){
             for(int j=0; j<i; j++){
                 if(lcs(words[j],words[i])){
                     dp[i] = max(dp[i],dp[j]+1);

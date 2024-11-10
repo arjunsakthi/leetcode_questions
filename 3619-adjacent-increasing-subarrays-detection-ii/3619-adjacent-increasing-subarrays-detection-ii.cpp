@@ -17,7 +17,7 @@ public:
             return false;
         };
         int left = 0;
-        int right = nums.size();
+        int right = nums.size()/2;
         while(left <=right){
             int mid = left + (right - left)/2;
             if(check(mid)){

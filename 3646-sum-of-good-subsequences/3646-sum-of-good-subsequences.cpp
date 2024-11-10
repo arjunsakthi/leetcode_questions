@@ -15,7 +15,7 @@ public:
             {
                 count[nums[i]] += (1 + count[nums[i]+1]%MOD + count[nums[i]-1]%MOD)%MOD;
                 count[nums[i]] %= MOD;
-                sum[nums[i]] +=(int)(nums[i] + (sum[nums[i]+1]%MOD + count[nums[i]+1]*1LL*nums[i]%MOD)%MOD+(sum[nums[i]-1]%MOD + count[nums[i]-1]*1LL*nums[i]%MOD)%MOD)%MOD;
+                sum[nums[i]] +=(nums[i] + (sum[nums[i]+1]%MOD + count[nums[i]+1]*1LL*nums[i]%MOD)%MOD+(sum[nums[i]-1]%MOD + count[nums[i]-1]*1LL*nums[i]%MOD)%MOD)%MOD;
                 sum[nums[i]] %= MOD;
 
             }

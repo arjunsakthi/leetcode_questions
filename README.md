@@ -123,6 +123,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1923-sentence-similarity-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arjunsakthi/leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -386,6 +388,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2179-most-beautiful-item-for-each-query](https://github.com/arjunsakthi/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Breadth-First Search
@@ -455,6 +458,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0882-peak-index-in-a-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arjunsakthi/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |

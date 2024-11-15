@@ -120,6 +120,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -135,6 +136,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
@@ -188,6 +190,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1923-sentence-similarity-iii) |
@@ -434,6 +437,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -457,6 +461,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arjunsakthi/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/arjunsakthi/leetcode_questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |

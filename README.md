@@ -185,6 +185,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arjunsakthi/leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -418,6 +419,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
@@ -461,6 +463,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arjunsakthi/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -498,6 +501,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arjunsakthi/leetcode_questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -508,6 +512,15 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->

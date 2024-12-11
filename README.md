@@ -210,6 +210,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -397,6 +398,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Breadth-First Search
@@ -473,6 +475,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/arjunsakthi/leetcode_questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Trie
@@ -518,6 +521,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/arjunsakthi/leetcode_questions/tree/master/1755-defuse-the-bomb) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/arjunsakthi/leetcode_questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Queue

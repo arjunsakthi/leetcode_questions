@@ -159,6 +159,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/arjunsakthi/leetcode_questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
@@ -208,6 +209,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arjunsakthi/leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -268,6 +270,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/arjunsakthi/leetcode_questions/tree/master/2411-spiral-matrix-iv) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
@@ -397,6 +400,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2179-most-beautiful-item-for-each-query](https://github.com/arjunsakthi/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -511,6 +515,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arjunsakthi/leetcode_questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Enumeration
 |  |
 | ------- |

@@ -1,30 +1,29 @@
 class Solution {
 public:
     int minCost(int n, vector<int>& cuts) {
-        // Add the start and end points to the cuts array
         cuts.push_back(0);
         cuts.push_back(n);
 
-        // Sort the cuts array
         sort(cuts.begin(), cuts.end());
 
         int m = cuts.size();
         vector<vector<int>> dp(m, vector<int>(m, 0));
 
-        // Bottom-up DP to calculate minimum cost
-        for (int length = 2; length < m; ++length) { // Range length
-            for (int i = 0; i < m - length; ++i) {
-                int j = i + length; // End index of the range
-                dp[i][j] = INT_MAX;
+        for(int i=m-2; i>0; i--){
 
-                // Try all possible cuts within the range [i, j]
-                for (int k = i + 1; k < j; ++k) {
-                    dp[i][j] = min(dp[i][j], cuts[j] - cuts[i] + dp[i][k] + dp[k][j]);
-                }
+            for(int j=i; j<m-1;j++){
+                int mini = INT_MAX;
+
+            for (int ind = i; ind <= j; ind++) {
+                int ans = cuts[j + 1] - cuts[i - 1] + dp[i][ind - 1] + dp[ind + 1][j];
+
+                mini = min(mini, ans);
+            }
+
+            dp[i][j] = mini;
             }
         }
 
-        // Minimum cost to cut the stick between 0 and n
-        return dp[0][m - 1];
+        return dp[1][m - 2];
     }
 };

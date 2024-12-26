@@ -59,6 +59,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/arjunsakthi/leetcode_questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -237,6 +238,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0014-longest-common-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/arjunsakthi/leetcode_questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |

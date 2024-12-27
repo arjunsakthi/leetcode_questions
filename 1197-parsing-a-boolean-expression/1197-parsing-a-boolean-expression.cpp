@@ -1,6 +1,10 @@
 class Solution {
 public:
-    bool eval(vector<bool> val, int op){
+    bool eval(vector<bool> val, char oper){
+        int op = 0;
+        if(oper == '&') op = 0;
+        if(oper == '|') op = 1;
+        if(oper == '!') op = 2;
         if(op == 1){
             bool ored = false;
             for(auto i : val){
@@ -42,6 +46,30 @@ public:
         return eval(val,op);
     }
     bool parseBoolExpr(string expression) {
-        return f(expression, 0,expression.size()-1);
+        // return f(expression, 0,expression.size()-1);
+        stack<char> st;
+        int i=0;
+        if(expression.size() == 1)  return expression[0] == 'f'?false:true;
+        while(i<expression.size()){
+            while(expression[i] != ')' && i<expression.size()){
+                st.push(expression[i]);
+                i++;
+            }
+            i++;
+            vector<bool> val;
+            while(st.top() != '('){
+                char k = st.top();
+                st.pop();
+                if(k == ',') continue;
+                if(k == 'f') val.push_back(false);
+                if(k == 't') val.push_back(true);
+            }
+            st.pop();
+            char op = st.top();
+            st.pop();
+            bool res = eval(val,op);
+            st.push(res == true? 't':'f');
+        }
+        return st.top() == 'f'?false:true;
     }
 };

@@ -71,6 +71,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arjunsakthi/leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/arjunsakthi/leetcode_questions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/arjunsakthi/leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
@@ -181,6 +182,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arjunsakthi/leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/arjunsakthi/leetcode_questions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/arjunsakthi/leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |

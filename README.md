@@ -132,6 +132,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -240,6 +241,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0008-string-to-integer-atoi](https://github.com/arjunsakthi/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/arjunsakthi/leetcode_questions/tree/master/0091-decode-ways) |

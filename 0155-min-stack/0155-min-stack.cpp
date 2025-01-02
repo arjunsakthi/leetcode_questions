@@ -5,12 +5,12 @@ public:
     MinStack() {
         st = new stack<int>;
         arr = new stack<int>;
+        arr->push(INT_MAX);
     }
     
     void push(int val) {
         st->push(val);
-        if(arr->size() == 0)    arr->push(val);
-        else    arr->push(min(arr->top(),val));
+        arr->push(min(arr->top(),val));
     }
     
     void pop() {

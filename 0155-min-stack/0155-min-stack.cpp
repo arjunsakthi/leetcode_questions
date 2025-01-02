@@ -1,19 +1,21 @@
 class MinStack {
 public:
     stack<int> *st;
-    vector<int> *arr;
+    stack<int> *arr;
     MinStack() {
         st = new stack<int>;
-        arr = new vector<int>(30001,INT_MAX);
+        arr = new stack<int>;
     }
     
     void push(int val) {
         st->push(val);
-        (*arr)[st->size()] = min((*arr)[st->size()-1],val);
+        if(arr->size() == 0)    arr->push(val);
+        else    arr->push(min(arr->top(),val));
     }
     
     void pop() {
         st->pop();
+        arr->pop();
     }
     
     int top() {
@@ -21,7 +23,7 @@ public:
     }
     
     int getMin() {
-        return (*arr)[st->size()];
+        return arr->top();
     }
 };
 

@@ -137,6 +137,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0094-binary-tree-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/arjunsakthi/leetcode_questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/arjunsakthi/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -470,6 +471,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/arjunsakthi/leetcode_questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/arjunsakthi/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree

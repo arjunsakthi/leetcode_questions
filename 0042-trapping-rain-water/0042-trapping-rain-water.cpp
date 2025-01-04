@@ -7,13 +7,15 @@ public:
         int count = 0;
         while (left < right) {
             if (height[left] < height[right]) {
-                left++;
+                
                 leftMax = max(height[left], leftMax);
                 count += leftMax - height[left];
+                left++;
             } else {
-                right--;
+                
                 rightMax = max(height[right], rightMax);
                 count += rightMax - height[right];
+                right--;
             }
         }
         return count;

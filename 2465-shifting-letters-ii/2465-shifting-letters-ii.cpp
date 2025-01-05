@@ -4,8 +4,8 @@ public:
         vector<int> diffarr(s.size()+1,0);
         for(int i=0; i<shifts.size(); i++){
             vector<int> shift = shifts[i];
-            diffarr[shift[0]] += shift[2] == 1? 1 : -1;
-            diffarr[shift[1]+1] += shift[2] == 1? -1 : 1;
+            diffarr[shift[0]] += shift[2]*2 - 1;
+            diffarr[shift[1]+1] += shift[2]*2*(-1) + 1;
         }
         for(int i=1; i<diffarr.size(); i++){
             diffarr[i] += diffarr[i-1];

@@ -7,11 +7,16 @@ public:
             diffarr[shift[0]] += shift[2]*2 - 1;
             diffarr[shift[1]+1] += shift[2]*2*(-1) + 1;
         }
-        for(int i=1; i<diffarr.size(); i++){
-            diffarr[i] += diffarr[i-1];
-        }
         int MOD = 26;
-        for(int i=0; i<s.size(); i++){
+        int c = s[0] - 'a';
+            c += diffarr[0];
+            c %= MOD;
+            c += MOD;
+            c %= MOD;
+            c += 'a';
+            s[0] = char(c);
+        for(int i=1; i<s.size(); i++){
+            diffarr[i] += diffarr[i-1];
             int c = s[i] - 'a';
             c += diffarr[i];
             c %= MOD;

@@ -14,7 +14,7 @@ public:
             c += MOD;
             c %= MOD;
             c += 'a';
-            s[0] = char(c);
+            s[0] = c;
         for(int i=1; i<s.size(); i++){
             diffarr[i] += diffarr[i-1];
             int c = s[i] - 'a';

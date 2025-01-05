@@ -23,7 +23,7 @@ public:
             c += MOD;
             c %= MOD;
             c += 'a';
-            s[i] = char(c);
+            s[i] = c;
         }
         return s;
     }

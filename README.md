@@ -220,6 +220,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/arjunsakthi/leetcode_questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/arjunsakthi/leetcode_questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/arjunsakthi/leetcode_questions/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arjunsakthi/leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -279,6 +280,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/arjunsakthi/leetcode_questions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/arjunsakthi/leetcode_questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -456,6 +458,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |

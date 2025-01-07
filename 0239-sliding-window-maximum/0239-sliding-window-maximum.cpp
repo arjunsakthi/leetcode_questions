@@ -19,13 +19,13 @@ public:
             if (i >= k) {
                 int outElem = nums[i - k]; // Element going out of the window
                 freqMap[outElem]--;
-                if (freqMap[outElem] == 0) {
-                    freqMap.erase(outElem); // Remove if frequency becomes 0
-                }
+                // if (freqMap[outElem] == 0) {
+                //     freqMap.erase(outElem); // Remove if frequency becomes 0
+                // }
             }
 
             // Clean up the heap's top elements that are not valid (i.e., not in the current window)
-            while (!pq.empty() && freqMap.find(pq.top()) == freqMap.end()) {
+            while (!pq.empty() && freqMap[pq.top()] == 0) {
                 pq.pop();
             }
 

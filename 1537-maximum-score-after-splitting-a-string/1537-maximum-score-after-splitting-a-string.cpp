@@ -1,18 +1,16 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int maxi = 0;
-        for(int i=1; i<s.size(); i++){
-                int zeros = 0;
-                int ones = 0;
-                for(int k=0; k<i;k++){
-                    if(s[k] == '0')zeros++;
-                }
-                for(int k=i; k<s.size(); k++){
-                    if(s[k] == '1')ones++;
-                }
-                maxi = max(maxi, zeros + ones);
+        int one = count(s.begin(),s.end(),'1');
+        
+        int ans = 0,zero=0;
+        for(int j = 0; j<s.size()-1; j++){
+            char i = s[j];
+            zero+=i=='0'?1:0;
+            one-=i=='1'?1:0;
+            ans = max(ans,zero+one);
         }
-        return maxi;
+        int l = s.size();
+        return ans == l ? ans:ans;
     }
 };

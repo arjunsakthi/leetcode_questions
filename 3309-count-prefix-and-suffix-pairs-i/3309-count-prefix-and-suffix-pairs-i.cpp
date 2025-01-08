@@ -2,9 +2,8 @@ class Solution {
 public:
     bool isPrefixAndSuffix(string s1, string s2){
         bool s11 = (s2.find(s1) == 0) ;
-        reverse(s1.begin(), s1.end());
-         reverse(s2.begin(), s2.end());
-        bool s22 = (s2.find(s1) == 0);
+        if(s2.size() < s1.size())   return false;
+        bool s22 = (s2.find(s1,s2.size() - s1.size()) != string::npos);
         return s11 && s22;
     }
     int countPrefixSuffixPairs(vector<string>& words) {
@@ -18,4 +17,4 @@ public:
         }
         return count;
     }
-};
+}; 

@@ -295,6 +295,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arjunsakthi/leetcode_questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-string-matching-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arjunsakthi/leetcode_questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -478,6 +479,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arjunsakthi/leetcode_questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |

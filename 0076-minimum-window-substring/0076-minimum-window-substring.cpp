@@ -5,7 +5,7 @@ public:
         vector<int> aCount(52, 0);
         int left = 0;
         int mini = INT_MAX;
-        int l=-1,r=-1;
+        int l=-1;
         for (int i = 0; i < s.size(); i++) {
             if (s[i] > 'Z')
                 aCount[s[i] - 'a' + 26]++;
@@ -15,7 +15,6 @@ public:
                 if(mini > i-left +1){
                     mini = min(mini, i - left + 1);
                     l = left;
-                    r = i;
                 }
                 
                 if (s[left] > 'Z')
@@ -25,7 +24,7 @@ public:
                 left++;
             }
         }
-        return (l == -1 && r == -1)? "" : s.substr(l,r - l + 1);
+        return (l == -1)? "" : s.substr(l,mini);
     }
 
 private:

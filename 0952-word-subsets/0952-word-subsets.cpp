@@ -8,10 +8,9 @@ public:
             string temp = words2[i];
             for (int j = 0; j < temp.size(); j++) {
                 hash[temp[j] - 'a']++;
+                w2[temp[j]-'a'] = max(w2[temp[j] - 'a'], hash[temp[j] - 'a']);
             }
-            for (int j = 0; j < 26; j++) {
-                w2[j] = max(w2[j], hash[j]);
-            }
+    
         }
         for (int i = 0; i < words1.size(); i++) {
             string temp = words1[i];

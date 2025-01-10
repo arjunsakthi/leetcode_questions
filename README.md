@@ -160,6 +160,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsakthi/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0141-linked-list-cycle) |
@@ -286,6 +287,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0020-valid-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/arjunsakthi/leetcode_questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
@@ -618,6 +620,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsakthi/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/arjunsakthi/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |

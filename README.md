@@ -172,6 +172,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0952-word-subsets](https://github.com/arjunsakthi/leetcode_questions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -224,6 +225,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0952-word-subsets](https://github.com/arjunsakthi/leetcode_questions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -517,6 +519,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1034-subarrays-with-k-different-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/arjunsakthi/leetcode_questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Monotonic Stack
@@ -619,6 +622,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0424-longest-repeating-character-replacement](https://github.com/arjunsakthi/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |

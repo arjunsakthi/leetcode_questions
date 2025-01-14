@@ -187,6 +187,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arjunsakthi/leetcode_questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/arjunsakthi/leetcode_questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
@@ -260,6 +261,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -356,6 +358,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/arjunsakthi/leetcode_questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arjunsakthi/leetcode_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/arjunsakthi/leetcode_questions/tree/master/3394-minimum-array-end) |

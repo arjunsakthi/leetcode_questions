@@ -1,20 +1,14 @@
 class Solution {
 public:
-    // int f_rec(int n, vector<int>& g, vector<int>& s, int hashc, int childc){
-    //     if(hashc == 0 || n == 0){
-    //         if(hashc == 0 && n == 0)    return childc;
-    //     }
-    // }
     int findContentChildren(vector<int>& g, vector<int>& s) {
-        sort(g.begin(),g.end());
-        sort(s.begin(),s.end());
-        int k=0, i=0;
-        while(i<g.size() && k < s.size()){
-            if(g[i]<=s[k]){
-                i++;
-            }
-            k++;
+        sort(g.begin(), g.end());
+        sort(s.begin(), s.end());
+        int count = 0;
+        int l = 0;
+        for(int i=0; i<s.size(); i++){
+            if(l >= g.size())   break;
+            if(g[l] <= s[i])    count++,l++;       
         }
-        return i;
+        return count;
     }
 };

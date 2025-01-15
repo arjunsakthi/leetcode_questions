@@ -169,6 +169,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0242-valid-anagram](https://github.com/arjunsakthi/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/arjunsakthi/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/arjunsakthi/leetcode_questions/tree/master/0952-word-subsets) |
@@ -220,6 +221,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0496-next-greater-element-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arjunsakthi/leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/arjunsakthi/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
@@ -456,6 +458,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arjunsakthi/leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/arjunsakthi/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -472,6 +475,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0368-largest-divisible-subset](https://github.com/arjunsakthi/leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arjunsakthi/leetcode_questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -529,6 +533,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1502-construct-k-palindrome-strings](https://github.com/arjunsakthi/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -619,6 +624,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arjunsakthi/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arjunsakthi/leetcode_questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |

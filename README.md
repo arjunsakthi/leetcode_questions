@@ -100,6 +100,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/arjunsakthi/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/arjunsakthi/leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/0234-palindrome-linked-list) |
@@ -546,6 +547,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/arjunsakthi/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Design
@@ -613,6 +615,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/arjunsakthi/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |
@@ -656,4 +659,8 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/arjunsakthi/leetcode_questions/tree/master/0937-online-stock-span) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/arjunsakthi/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

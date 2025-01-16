@@ -171,6 +171,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0496-next-greater-element-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-hand-of-straights](https://github.com/arjunsakthi/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/arjunsakthi/leetcode_questions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
@@ -225,6 +226,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arjunsakthi/leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/arjunsakthi/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
+| [0876-hand-of-straights](https://github.com/arjunsakthi/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/arjunsakthi/leetcode_questions/tree/master/0943-sum-of-subarray-minimums) |
@@ -462,6 +464,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arjunsakthi/leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0876-hand-of-straights](https://github.com/arjunsakthi/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/arjunsakthi/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -478,6 +481,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/arjunsakthi/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arjunsakthi/leetcode_questions/tree/master/1669-minimum-cost-to-cut-a-stick) |

@@ -244,6 +244,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsakthi/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
@@ -289,6 +290,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/arjunsakthi/leetcode_questions/tree/master/2411-spiral-matrix-iv) |
@@ -516,6 +518,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Number Theory
@@ -655,6 +658,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0789-kth-largest-element-in-a-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arjunsakthi/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1304-longest-happy-string) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arjunsakthi/leetcode_questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -709,4 +713,12 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->

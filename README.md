@@ -53,6 +53,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1197-parsing-a-boolean-expression](https://github.com/arjunsakthi/leetcode_questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +292,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -582,6 +585,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0937-online-stock-span](https://github.com/arjunsakthi/leetcode_questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/arjunsakthi/leetcode_questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |

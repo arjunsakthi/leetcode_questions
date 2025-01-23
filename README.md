@@ -251,6 +251,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
@@ -302,6 +303,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+| [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -450,6 +452,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
@@ -536,6 +539,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -577,6 +581,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/arjunsakthi/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/arjunsakthi/leetcode_questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -745,4 +750,8 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

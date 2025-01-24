@@ -59,6 +59,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/arjunsakthi/leetcode_questions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/0072-edit-distance) |
@@ -210,6 +211,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0004-median-of-two-sorted-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/arjunsakthi/leetcode_questions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arjunsakthi/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -488,6 +490,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/arjunsakthi/leetcode_questions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/arjunsakthi/leetcode_questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |

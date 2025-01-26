@@ -1,7 +1,7 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        // slope concept
+        // slope concept -- striver
         int i=1,n=ratings.size();
         int sum = 1; 
         while(i<n){

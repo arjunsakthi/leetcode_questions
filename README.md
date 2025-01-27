@@ -216,6 +216,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/arjunsakthi/leetcode_questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/arjunsakthi/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arjunsakthi/leetcode_questions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arjunsakthi/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -520,6 +521,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/arjunsakthi/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/arjunsakthi/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0295-find-median-from-data-stream) |

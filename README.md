@@ -82,6 +82,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsakthi/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arjunsakthi/leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
@@ -245,6 +246,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0496-next-greater-element-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arjunsakthi/leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |
@@ -319,6 +321,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/1036-rotting-oranges) |
@@ -566,6 +569,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/arjunsakthi/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/arjunsakthi/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |

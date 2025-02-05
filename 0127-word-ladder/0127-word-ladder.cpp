@@ -1,35 +1,37 @@
 class Solution {
 public:
+    int ladderLength(string startWord, string targetWord,
+                     vector<string>& wordList) {
 
-    bool compIfOne(string m1, string m2){
-        int count = 0;
-        for(int i=0; i<m1.size(); i++){
-            if(m1[i] != m2[i])  count++;
-        }
-        return count == 1 || count == 0;
-    }
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        int flag = 0;
-        for(string i : wordList){
-            if(endWord == i)   { flag = 1;break;}
-        }
-        if(!flag) return 0;
-        vector<int> visited(wordList.size(),0);
-        queue<pair<string, int>>   bfs;
-        bfs.push({beginWord,1});
-        while(!bfs.empty()){
-            pair<string,int> pp = bfs.front();
-            string curr = pp.first;
-            int val = pp.second;
-            if(curr == endWord) return val;
-            bfs.pop();
-            for(int i=0; i<wordList.size(); i++){
-                if(!visited[i] && compIfOne(curr,wordList[i])){
-                    visited[i] = 1;
-                    bfs.push({wordList[i], val+1});
+        queue<pair<string, int>> q;
+
+        q.push({startWord, 1});
+
+        unordered_set<string> st(wordList.begin(), wordList.end());
+        st.erase(startWord);
+        while (!q.empty()) {
+            string word = q.front().first;
+            int steps = q.front().second;
+            q.pop();
+
+            if (word == targetWord)
+                return steps;
+
+            for (int i = 0; i < word.size(); i++) {
+
+                char original = word[i];
+                for (char ch = 'a'; ch <= 'z'; ch++) {
+                    word[i] = ch;
+
+                    if (st.find(word) != st.end()) {
+                        st.erase(word);
+                        q.push({word, steps + 1});
+                    }
                 }
+                word[i] = original;
             }
         }
+
         return 0;
     }
 };

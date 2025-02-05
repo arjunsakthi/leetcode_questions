@@ -12,7 +12,6 @@ private:
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int ini = image[sr][sc];
-        if (ini == color) return image;
         int dR[] = {-1, 0, 1, 0}, dC[] = {0, 1, 0, -1};
         dfs(sr, sc, image, color, dR, dC, ini);
         return image;

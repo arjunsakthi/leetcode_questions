@@ -224,6 +224,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0056-merge-intervals](https://github.com/arjunsakthi/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arjunsakthi/leetcode_questions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arjunsakthi/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -326,6 +327,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/arjunsakthi/leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0542-01-matrix) |
@@ -669,6 +671,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/arjunsakthi/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |

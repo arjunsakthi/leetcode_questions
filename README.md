@@ -499,6 +499,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/arjunsakthi/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -599,6 +600,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0547-number-of-provinces](https://github.com/arjunsakthi/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/arjunsakthi/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
@@ -814,6 +816,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0210-course-schedule-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/arjunsakthi/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/arjunsakthi/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -838,4 +841,5 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/arjunsakthi/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

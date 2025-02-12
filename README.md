@@ -102,6 +102,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3696-count-substrings-divisible-by-last-digit](https://github.com/arjunsakthi/leetcode_questions/tree/master/3696-count-substrings-divisible-by-last-digit) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Memoization
 |  |
@@ -409,6 +410,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/arjunsakthi/leetcode_questions/tree/master/3447-clear-digits) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3696-count-substrings-divisible-by-last-digit](https://github.com/arjunsakthi/leetcode_questions/tree/master/3696-count-substrings-divisible-by-last-digit) |
 ## Simulation
 |  |
 | ------- |

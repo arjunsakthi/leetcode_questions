@@ -47,6 +47,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
@@ -283,6 +284,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsakthi/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -632,6 +634,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsakthi/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
@@ -692,6 +695,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0355-design-twitter](https://github.com/arjunsakthi/leetcode_questions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/arjunsakthi/leetcode_questions/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/arjunsakthi/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -810,6 +814,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0295-find-median-from-data-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/arjunsakthi/leetcode_questions/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Merge Sort
 |  |
 | ------- |

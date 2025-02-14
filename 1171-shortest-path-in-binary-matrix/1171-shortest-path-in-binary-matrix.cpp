@@ -25,6 +25,7 @@ public:
                     if(  row+i < grid.size() && col+j < grid[0].size() && row+i >=0 && col+j >= 0 && grid[row+i][col+j] != 1 && (distance[row+i][col+j] == -1 || distance[row+i][col+j] > dis+1)){
                         distance[row+i][col+j] = dis+1;
                         pq.push({dis+1, {row+i,col+j}});
+                        if(row+i == grid.size()-1 && col+j == grid[0].size()-1) return distance[grid.size()-1][grid[0].size()-1];
                     }
                 }
             }

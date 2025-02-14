@@ -279,6 +279,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1036-rotting-oranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/arjunsakthi/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -348,6 +349,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
@@ -614,6 +616,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0820-find-eventual-safe-states](https://github.com/arjunsakthi/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |

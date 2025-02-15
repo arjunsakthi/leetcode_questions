@@ -3,7 +3,7 @@ public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         if(grid[0][0] == 1) return -1;
         // shortest path so dijkstra 
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        queue<pair<int,int>> pq;
         vector<vector<int>> distance = grid;
         for(int i=0; i<grid.size(); i++){
             for(int j=0; j<grid[0].size(); j++){
@@ -13,10 +13,10 @@ public:
         distance[0][0] = 1;
         pq.push({0,0});
         while(!pq.empty()){
-            int dis = distance[pq.top().first][pq.top().second];
+            int dis = distance[pq.front().first][pq.front().second];
             
-            int row = pq.top().first;
-            int col = pq.top().second;
+            int row = pq.front().first;
+            int col = pq.front().second;
             pq.pop();
             for(int i=-1; i<=1; i++){
                 for(int j=-1; j<=1; j++){

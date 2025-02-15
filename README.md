@@ -52,6 +52,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -435,6 +436,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |

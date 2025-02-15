@@ -6,32 +6,29 @@ public:
             adj[i[0]].push_back({i[1],i[2]});
         }
 
-        vector<vector<int>> distance(n,vector<int>(k+1));
+        vector<int> distance(n);
         for(int i=0; i<n; i++){
-            for(int j=0; j<=k; j++){
-                distance[i][j] = 1e9;
-            }
+            
+                distance[i]= 1e9;
+            
         }
-        distance[src][0] = 0;
-        priority_queue<pair<int,pair<int,int>>, vector<pair<int,pair<int,int>>>, greater<pair<int,pair<int,int>>>> pq;
+        distance[src] = 0;
+        queue<pair<int,pair<int,int>>> pq;
         // dis - k, ind
-        pq.push({0,{-1,src}});
+        pq.push({-1,{0,src}});
         while(!pq.empty()){
-            int node = pq.top().second.second;
-            int dis = pq.top().first;
-            int kt = pq.top().second.first;
+            int node = pq.front().second.second;
+            int dis = pq.front().second.first;
+            int kt = pq.front().first;
             pq.pop();
             for(auto i : adj[node]){
-                if(kt+1 <= k && distance[i[0]][kt+1] > dis+i[1]){
-                    distance[i[0]][kt+1] = dis+i[1];
-                    pq.push({distance[i[0]][kt+1],{kt+1, i[0]}});
+                if(kt+1 <= k && distance[i[0]] > dis+i[1]){
+                    distance[i[0]] = dis+i[1];
+                    pq.push({kt+1,{distance[i[0]], i[0]}});
                 }
             }
         }
-        int mini = INT_MAX;
-        for(int i=0; i<=k; i++){
-            mini = min(distance[dst][i],mini);
-        }
-        return mini == 1e9? -1 : mini;
+        
+        return distance[dst] == 1e9? -1 : distance[dst];
     }
 };

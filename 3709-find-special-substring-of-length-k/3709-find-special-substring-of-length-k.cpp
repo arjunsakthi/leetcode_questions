@@ -12,10 +12,12 @@ public:
         }
         char ch = s[i];
         bool valid = true;
-        for(int j=i; j<i+k; j++){
+        int count =0 ;
+        for(int j=i; j<min(i+k,(int)s.size()); j++){
             if(s[j] != ch)  {valid = false;break;}
+            count++;
         }
-        if(flag && valid)  return true;
+        if(flag && (count == k))  return true;
       }
       return false;
     }

@@ -205,6 +205,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
+| [1160-letter-tile-possibilities](https://github.com/arjunsakthi/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/arjunsakthi/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -395,6 +396,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0952-word-subsets](https://github.com/arjunsakthi/leetcode_questions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
+| [1160-letter-tile-possibilities](https://github.com/arjunsakthi/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/arjunsakthi/leetcode_questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/1250-longest-common-subsequence) |
@@ -442,6 +444,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/arjunsakthi/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -675,6 +678,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1160-letter-tile-possibilities](https://github.com/arjunsakthi/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/arjunsakthi/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/arjunsakthi/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |

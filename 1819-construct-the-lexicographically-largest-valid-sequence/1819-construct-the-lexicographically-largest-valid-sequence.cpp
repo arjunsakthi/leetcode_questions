@@ -9,12 +9,9 @@ public:
     }
 private:
     bool rec(int ind, vector<int> &visited, int &n, vector<int> &temp){
-       if(ind == 2*n-1) return true;
-        if(temp[ind] != 0) 
+        if(ind < 2*n-1 && temp[ind] != 0) 
                 while (ind < 2*n-1 && temp[ind] != 0) ind++;
         if(ind == 2*n-1) return true;
-              
-        
         for(int i=n; i>=1; i--){
              if(i == 1 && visited[i] == 0){
                 visited[i] = 1;

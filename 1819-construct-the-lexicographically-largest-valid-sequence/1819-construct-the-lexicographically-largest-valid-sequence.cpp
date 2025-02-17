@@ -1,38 +1,27 @@
 class Solution {
 public:
     vector<int> constructDistancedSequence(int n) {
-        vector<int> result(2 * n - 1, 0);
-        vector<bool> used(n + 1, false);
-        backtrack(result, used, n, 0);
-        return result;
+        int ind = 0;
+        vector<vector<int>> freq(n+1,vector<int>());
+        vector<int> temp, ans;
+        rec(ind, freq, n, temp, ans);
+        return ans;
     }
-
 private:
-    bool backtrack(vector<int>& result, vector<bool>& used, int n, int index) {
-        while (index < result.size() && result[index] != 0) {
-            index++;
-        }
-        if (index == result.size()) {
+    bool rec(int ind, vector<vector<int>> &freq, int &n, vector<int> &temp, vector<int> &ans){
+        if(ind == 2*n - 1){
+            ans = temp;
             return true;
         }
+        for(int i=n; i>=1; i--){
+            if(i == 1 && freq[i].size() == 1)   continue;
 
-        for (int i = n; i >= 1; i--) {
-            if (used[i]) continue;
-
-            if (i == 1) {
-                result[index] = 1;
-                used[1] = true;
-                if (backtrack(result, used, n, index + 1)) return true;
-                result[index] = 0;
-                used[1] = false;
-            } else if (index + i < result.size() && result[index + i] == 0) {
-                result[index] = i;
-                result[index + i] = i;
-                used[i] = true;
-                if (backtrack(result, used, n, index + 1)) return true;
-                result[index] = 0;
-                result[index + i] = 0;
-                used[i] = false;
+            if(freq[i].size() == 0 || (freq[i].size() == 1 && abs(find(temp.begin(), temp.end(), i)-temp.begin()- ind) == i)){
+                freq[i].push_back(ind);
+                temp.push_back(i);
+                if(rec(ind+1, freq, n, temp, ans))  return true;
+                freq[i].pop_back();
+                temp.pop_back();
             }
         }
         return false;

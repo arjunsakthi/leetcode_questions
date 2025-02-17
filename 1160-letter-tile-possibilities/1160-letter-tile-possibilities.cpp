@@ -2,28 +2,24 @@ class Solution {
 public:
     int numTilePossibilities(string tiles) {
         vector<int> visited(tiles.size(),0);
-        set<string> st;
+        sort(tiles.begin(), tiles.end());
         string temp="";
         int ind = 0;
-        rec(ind, visited, st, temp, tiles.size(), tiles);
-        return st.size()-1;
+        return rec(visited, tiles.size(), tiles);
+        
     }
 private:
-    void rec(int ind, vector<int> &visited, set<string> &st, string &temp,int n, string &tiles){
-        if(ind == n)    {
-            st.insert(temp);
-            return;
-        }
+    int rec(vector<int> &visited,int n, string &tiles){
+        int count = 0;
         for(int i=0; i<n; i++){
+            if(visited[i] || (i>0 && tiles[i] == tiles[i-1] && !visited[i-1]))   continue;
             if(!visited[i]){
                 visited[i]=1;
-                temp.push_back(tiles[i]);
-                rec(ind+1, visited, st, temp, n, tiles);
+                count+= 1+rec(visited, n, tiles);
                 visited[i] = 0;
-                temp.pop_back();
             }
         }
-        rec(ind+1, visited, st, temp, n, tiles);
-        return ;
+     
+        return count;
     }
 };

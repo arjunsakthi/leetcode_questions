@@ -177,6 +177,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1197-parsing-a-boolean-expression](https://github.com/arjunsakthi/leetcode_questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/arjunsakthi/leetcode_questions/tree/master/3447-clear-digits) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -417,6 +418,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/arjunsakthi/leetcode_questions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/arjunsakthi/leetcode_questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -448,6 +450,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1160-letter-tile-possibilities](https://github.com/arjunsakthi/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -582,6 +585,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1502-construct-k-palindrome-strings](https://github.com/arjunsakthi/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/arjunsakthi/leetcode_questions/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |

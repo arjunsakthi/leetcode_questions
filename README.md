@@ -210,6 +210,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1160-letter-tile-possibilities](https://github.com/arjunsakthi/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/arjunsakthi/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arjunsakthi/leetcode_questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/arjunsakthi/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -509,6 +510,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
@@ -537,6 +539,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0803-cheapest-flights-within-k-stops](https://github.com/arjunsakthi/leetcode_questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/arjunsakthi/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/arjunsakthi/leetcode_questions/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -568,6 +571,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/arjunsakthi/leetcode_questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arjunsakthi/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Greedy
@@ -644,6 +648,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/arjunsakthi/leetcode_questions/tree/master/1753-path-with-minimum-effort) |
@@ -727,6 +732,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0355-design-twitter](https://github.com/arjunsakthi/leetcode_questions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/arjunsakthi/leetcode_questions/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/arjunsakthi/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree

@@ -35,11 +35,11 @@ public:
         for(auto &i : adj){
             Union(i[0],i[1]);
         }
-        set<int> st;
+        int count = 0;
         for(int i=0; i<isConnected.size(); i++){
-            st.insert(pUltimate(i));
+            count += i == parent[i] ? 1 : 0;
         }
-        return st.size();
+        return count;
        
     }
 };

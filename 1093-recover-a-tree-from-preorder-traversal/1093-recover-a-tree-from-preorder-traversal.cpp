@@ -1,58 +1,32 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    void parser(int &ind, int depth, string &traversal, TreeNode* node){
-        int k = ind;
-        while(traversal[k] == '-')k++;
-        if(k-ind == depth + 1){
-            string num = "";
-            while(traversal[k] >='0' && traversal[k] <='9')num.push_back(traversal[k]),k++;
-            node->left = new TreeNode(stoi(num));
+    int i=0;
+    TreeNode* recoverFromPreorder(string& T, int depth=0) {
+        if (i>=T.size()) return NULL; //base case
+        int D=0;
         
-            ind = k;
-            parser(ind, depth+1, traversal, node->left);
-        }
-        else if(k - ind < depth + 1){
-            return ;
-        }
-        else{
-            parser(ind, depth+1, traversal, node->left); // this won't happen
-        }
-        k=ind;
-        while(traversal[k] == '-')k++;
-        if(k-ind == depth + 1){
-            string num = "";
-            while(traversal[k] >='0' && traversal[k] <='9')num.push_back(traversal[k]),k++;
-            node->right = new TreeNode(stoi(num));
+        while (T[i]=='-') D++, i++; //D dashes
         
-            ind = k;
-            parser(ind, depth+1, traversal, node->right);
+        // If the current depth is less than expected, reset i
+        if (D < depth) {
+            i-=D;  // Reset i
+            return NULL;
         }
-        else if(k - ind < depth + 1){
-            return ;
-        }
-        else{
-            parser(ind, depth+1, traversal, node->right); // this won't happen
-        }
-        return ;
-    }
-    TreeNode* recoverFromPreorder(string traversal) {
-        string num = "";
-        int ind = 0;
-        while(traversal[ind] >='0' && traversal[ind] <='9')num.push_back(traversal[ind]),ind++;
-        TreeNode *node = new TreeNode(stoi(num));
         
-        parser(ind, 0, traversal, node);
+        // Read the node value
+        int x=0;
+        while (isdigit(T[i])) {
+            x=x*10+T[i]-'0';
+            i++;
+        }
+        
+        // Create node
+        TreeNode* node=new TreeNode(x);
+        
+        // recover left and right children
+        node->left=recoverFromPreorder(T, depth+1);
+        node->right=recoverFromPreorder(T, depth+1);
+        
         return node;
     }
 };

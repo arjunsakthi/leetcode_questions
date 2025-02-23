@@ -200,6 +200,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0496-next-greater-element-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/arjunsakthi/leetcode_questions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/arjunsakthi/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/arjunsakthi/leetcode_questions/tree/master/0952-word-subsets) |
@@ -275,6 +276,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0542-01-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arjunsakthi/leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/arjunsakthi/leetcode_questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/arjunsakthi/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
@@ -397,6 +399,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/arjunsakthi/leetcode_questions/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/arjunsakthi/leetcode_questions/tree/master/0952-word-subsets) |
@@ -537,6 +540,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0543-diameter-of-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/arjunsakthi/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/arjunsakthi/leetcode_questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/arjunsakthi/leetcode_questions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -619,6 +623,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/arjunsakthi/leetcode_questions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/arjunsakthi/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/arjunsakthi/leetcode_questions/tree/master/1129-longest-string-chain) |
@@ -649,6 +654,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0542-01-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/arjunsakthi/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/arjunsakthi/leetcode_questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/arjunsakthi/leetcode_questions/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/arjunsakthi/leetcode_questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/arjunsakthi/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
@@ -904,6 +910,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0130-surrounded-regions](https://github.com/arjunsakthi/leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/arjunsakthi/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/arjunsakthi/leetcode_questions/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arjunsakthi/leetcode_questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/arjunsakthi/leetcode_questions/tree/master/1442-number-of-operations-to-make-network-connected) |

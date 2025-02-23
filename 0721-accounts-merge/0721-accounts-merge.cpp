@@ -23,8 +23,14 @@ vector<int> parent, size;
     }
 
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
+        // intution is
+        // an account index is a node so account.size() nodes
+        // applying DSU on it 
+        
         parent.resize(accounts.size());
         size.resize(accounts.size(),1);
+        // have a map based on email_id push their index
+        // if same email_id repeats then union both the index
         map<string,int> mp;
         for(int i=0; i<accounts.size(); i++){
             parent[i] = i;
@@ -38,6 +44,7 @@ vector<int> parent, size;
                 }
             }
         }
+        // merging all the email_id of same component under the parent index
         map<int,set<string>> temp;
         for(int i=0; i<accounts.size(); i++){
             int par = pUltimate(i);
@@ -45,6 +52,7 @@ vector<int> parent, size;
                 temp[par].insert(accounts[i][j]);
             }
         }
+        // formatting the ans from map to vector<vector<string>>
         vector<vector<string>> ans;
         for(auto &it : temp){
             vector<string> temp;

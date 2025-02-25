@@ -48,6 +48,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
@@ -101,6 +102,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arjunsakthi/leetcode_questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arjunsakthi/leetcode_questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arjunsakthi/leetcode_questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -305,6 +307,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1524-string-matching-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsakthi/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arjunsakthi/leetcode_questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
@@ -700,6 +703,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1477-product-of-the-last-k-numbers](https://github.com/arjunsakthi/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsakthi/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arjunsakthi/leetcode_questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |

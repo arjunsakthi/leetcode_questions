@@ -11,7 +11,7 @@ public:
                     visited[i]=1;
                     dfs(i,adj,visited,n,tIn,mTin,ans);
                     if(mTin[i] <= tIn[n]){
-                        // here min is requ
+                        // here min is requred as we are comparing to tIn only not mTin.
                         mTin[n] = min(mTin[i],mTin[n]);
                     }
                     else{

@@ -15,13 +15,11 @@ public:
                         mTin[n] = min(mTin[i],mTin[n]);
                     }
                     else{
-                        cout << mTin[i] << " " << mTin[n];
                         ans.push_back({i,n});
                     }
                 }
                 else if(visited[i]){
-                    cout << n << i << endl;
-                    mTin[n] = min(mTin[i],mTin[n]);
+                    mTin[n] = min(tIn[i],mTin[n]);
                 }
             }
         }

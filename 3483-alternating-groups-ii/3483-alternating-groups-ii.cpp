@@ -1,22 +1,17 @@
 class Solution {
 public:
     int numberOfAlternatingGroups(vector<int>& colors, int k) {
-        int l = 0;
-        int i = 0;
+        int l =0 ;
+        int r=1;
         int sum =0;
         int mod = colors.size();
-        while (i < colors.size() + k - 1) {
-            while (i < colors.size() + k - 1 && (l == 0 || (colors[i%mod] != colors[(i - 1)%mod] && l != k))) {
-                l++;
-                i++;
+        for(r=0; r<mod+k-1; r++){
+            if(r!=0 && colors[r%mod] == colors[(r-1)%mod]){
+                l = r;
             }
-            if(l == k){
-                sum++;
-                l--;
-            }
-            else{
-                l=0;
-            }
+            if(r - l + 1 < k)   continue;
+            sum++;
+            l++;
         }
         return sum;
     }

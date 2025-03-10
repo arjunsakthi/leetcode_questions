@@ -374,6 +374,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arjunsakthi/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
 |  |
 | ------- |
@@ -729,6 +730,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/arjunsakthi/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arjunsakthi/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Brainteaser
 |  |
 | ------- |
@@ -821,6 +823,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arjunsakthi/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -869,6 +872,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arjunsakthi/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
 |  |
 | ------- |

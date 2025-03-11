@@ -243,6 +243,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arjunsakthi/leetcode_questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Array
 |  |
 | ------- |
@@ -461,6 +462,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/arjunsakthi/leetcode_questions/tree/master/3447-clear-digits) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3696-count-substrings-divisible-by-last-digit](https://github.com/arjunsakthi/leetcode_questions/tree/master/3696-count-substrings-divisible-by-last-digit) |
 ## Simulation
 |  |
@@ -892,6 +894,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Queue
 |  |

@@ -1,48 +1,32 @@
 class Solution {
 public:
-    long countOfSubstrings(string word, int k) {
-        return atLeastK(word, k) - atLeastK(word, k + 1);
+    long long countOfSubstrings(string word, int k) {
+        return kvowel(word,k)-kvowel(word,k+1);
     }
-
-private:
-    long atLeastK(string word, int k) {
-        long numValidSubstrings = 0;
-        int start = 0;
-        int end = 0;
-
-        unordered_map<char, int> vowelCount;
-        int consonantCount = 0;
-
-        while (end < word.length()) {
-
-            char newLetter = word[end];
-
-            if (isVowel(newLetter)) {
-                vowelCount[newLetter]++;
-            } else {
-                consonantCount++;
+private :
+    long long kvowel(string &word, int k){
+        long long sum=0;
+        int cons=0;
+        vector<int> vowel(26,0);
+        int l=0, r=0;
+        int n=word.size();
+        while(r<n){
+            vowel[word[r]-'a']++;
+            cons += !checkVowel(word[r]);
+            while(checkWind(vowel) && cons>=k){
+                sum += n-r;
+                vowel[word[l]-'a']--;
+                cons -= !checkVowel(word[l]);
+                l++;
             }
-
-            while (vowelCount.size() == 5 and consonantCount >= k) {
-                numValidSubstrings += word.length() - end;
-                char startLetter = word[start];
-                if (isVowel(startLetter)) {
-                    if (--vowelCount[startLetter] == 0) {
-                        vowelCount.erase(startLetter);
-                    }
-                } else {
-                    consonantCount--;
-                }
-                start++;
-            }
-
-            end++;
-        }
-
-        return numValidSubstrings;
+            r++;
+        } 
+        return sum;
     }
-
-    bool isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
+    bool checkVowel(char &c){
+        return (c=='a' || c=='e' || c=='i' || c=='o'|| c=='u');
+    }
+    bool checkWind(vector<int> &charWind){
+        return (charWind['a'-'a'] && charWind['e'-'a'] && charWind['i'-'a'] && charWind['o'-'a'] && charWind['u'-'a'] );
     }
 };

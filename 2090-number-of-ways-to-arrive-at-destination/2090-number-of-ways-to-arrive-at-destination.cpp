@@ -21,10 +21,9 @@ public:
             auto [dis, node] = pq.top();
             pq.pop();
 
-            if (dis > distance[node]) continue; // Skip outdated entries
 
             for (auto &[neighbor, weight] : adj[node]) {
-                long long newDist = distance[node] + weight;
+                long long newDist = dis + weight;
 
                 if (newDist < distance[neighbor]) {
                     distance[neighbor] = newDist;

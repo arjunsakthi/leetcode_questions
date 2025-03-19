@@ -32,21 +32,24 @@ public:
 
         for (int i = 0; i < n; i++) parent[i] = i; // Initialize parent
 
-        unordered_map<int, int> stoneNodes;
+        // unordered_map<int, int> stoneNodes;
+        set<int> st;
         for (auto& it : stones) {
             int nodeRow = it[0];
             int nodeCol = it[1] + maxRow + 1; 
             Union(nodeRow, nodeCol);
-            stoneNodes[nodeRow] = 1;
-            stoneNodes[nodeCol] = 1;
+            // stoneNodes[nodeRow] = 1;
+            // stoneNodes[nodeCol] = 1;
         }
-
-        int cnt = 0;
-        for (auto& it : stoneNodes) {
-            if (pUltimate(it.first) == it.first) {
-                cnt++;
-            }
+         for (auto& it : stones) {
+            st.insert(pUltimate(it[0]));
         }
+        int cnt = st.size();
+        // for (auto& it : stoneNodes) {
+        //     if (pUltimate(it.first) == it.first) {
+        //         cnt++;
+        //     }
+        // }
 
         return stones.size() - cnt;
     }

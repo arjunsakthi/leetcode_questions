@@ -45,6 +45,7 @@ public:
             st.insert(pUltimate(it[0]));
         }
         int cnt = st.size();
+        // int cnt = 0;
         // for (auto& it : stoneNodes) {
         //     if (pUltimate(it.first) == it.first) {
         //         cnt++;

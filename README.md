@@ -203,6 +203,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0127-word-ladder](https://github.com/arjunsakthi/leetcode_questions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/arjunsakthi/leetcode_questions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arjunsakthi/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/arjunsakthi/leetcode_questions/tree/master/0355-design-twitter) |
@@ -272,6 +273,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/arjunsakthi/leetcode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/arjunsakthi/leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arjunsakthi/leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -657,6 +659,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0056-merge-intervals](https://github.com/arjunsakthi/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arjunsakthi/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
@@ -751,6 +754,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/arjunsakthi/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arjunsakthi/leetcode_questions/tree/master/0920-uncommon-words-from-two-sentences) |

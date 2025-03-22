@@ -379,6 +379,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arjunsakthi/leetcode_questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3429-special-array-i) |
@@ -523,6 +524,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/arjunsakthi/leetcode_questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arjunsakthi/leetcode_questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/arjunsakthi/leetcode_questions/tree/master/3394-minimum-array-end) |
 ## Bitmask
@@ -972,6 +974,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arjunsakthi/leetcode_questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arjunsakthi/leetcode_questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -995,6 +998,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1396-count-servers-that-communicate](https://github.com/arjunsakthi/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/arjunsakthi/leetcode_questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/arjunsakthi/leetcode_questions/tree/master/1753-path-with-minimum-effort) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arjunsakthi/leetcode_questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Ordered Set
 |  |
 | ------- |

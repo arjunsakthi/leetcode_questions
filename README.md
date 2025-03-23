@@ -289,6 +289,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0416-partition-equal-subset-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsakthi/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/arjunsakthi/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0503-next-greater-element-ii) |
@@ -803,6 +804,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/arjunsakthi/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -828,6 +830,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0300-longest-increasing-subsequence](https://github.com/arjunsakthi/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arjunsakthi/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -858,6 +861,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arjunsakthi/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Rolling Hash
@@ -952,6 +956,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arjunsakthi/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1002,6 +1007,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/arjunsakthi/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 ## Topological Sort
@@ -1014,4 +1020,8 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/arjunsakthi/leetcode_questions/tree/master/1300-critical-connections-in-a-network) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

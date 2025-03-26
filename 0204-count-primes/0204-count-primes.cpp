@@ -6,7 +6,7 @@ public:
         for(int i=3; i<n; i+=2){
             if(!seive[i]){
                 c++;
-                for(int j=i; j<n; j+=i){
+                for(int j=i*i; j<n; j+=i){
                     seive[j]=1;
                 }
             }

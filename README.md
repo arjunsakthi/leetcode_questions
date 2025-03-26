@@ -40,6 +40,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/arjunsakthi/leetcode_questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -515,6 +516,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/0029-divide-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/arjunsakthi/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1435-xor-queries-of-a-subarray) |

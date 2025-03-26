@@ -43,6 +43,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0029-divide-two-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/arjunsakthi/leetcode_questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/arjunsakthi/leetcode_questions/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/arjunsakthi/leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/0539-minimum-time-difference) |
@@ -281,6 +282,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0179-largest-number](https://github.com/arjunsakthi/leetcode_questions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/arjunsakthi/leetcode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/arjunsakthi/leetcode_questions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/arjunsakthi/leetcode_questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0239-sliding-window-maximum) |
@@ -743,6 +745,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arjunsakthi/leetcode_questions/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -922,6 +925,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arjunsakthi/leetcode_questions/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arjunsakthi/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window

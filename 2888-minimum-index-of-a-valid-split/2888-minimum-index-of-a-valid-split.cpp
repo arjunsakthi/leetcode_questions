@@ -14,33 +14,19 @@ public:
                 cnt++;
         }
         int c = 0;
-        int split = -1;
-        for (int i = 0; i < nums.size(); i++) {
+        for(auto i : nums){
+            if(i == dom)    c++;
+        }
+        int k=0;
+        for (int i = 0; i < nums.size()-1; i++) {
             if (nums[i] == dom)
-                c++;
-            else
-                c--;
-            if (c == 1) {
-                split = i;
-                break;
+                k++;
+            if(k>(i+1)/2 && c-k > (nums.size()-1-i)/2){
+                return i;
             }
         }
-        int temp = split;
-        if (split == nums.size() - 1)
+       
             return -1;
-        split++;
-        c = 0;
-        while (split < nums.size()) {
-            if (nums[split] == dom)
-                c++;
-            else
-                c--;
-            split++;
-        }
-        if (c > 0) {
-            return temp;
-        } else {
-            return -1;
-        }
+        
     }
 };

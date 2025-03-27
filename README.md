@@ -240,6 +240,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arjunsakthi/leetcode_questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arjunsakthi/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/arjunsakthi/leetcode_questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/arjunsakthi/leetcode_questions/tree/master/2434-design-a-number-container-system) |
@@ -357,6 +358,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arjunsakthi/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/arjunsakthi/leetcode_questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arjunsakthi/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arjunsakthi/leetcode_questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -477,6 +479,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2032-largest-odd-number-in-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arjunsakthi/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arjunsakthi/leetcode_questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/2465-shifting-letters-ii) |
@@ -996,6 +999,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arjunsakthi/leetcode_questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arjunsakthi/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arjunsakthi/leetcode_questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
@@ -1034,6 +1038,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0210-course-schedule-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/arjunsakthi/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arjunsakthi/leetcode_questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arjunsakthi/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Biconnected Component
 |  |
 | ------- |

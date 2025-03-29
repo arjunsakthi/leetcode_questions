@@ -58,6 +58,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -195,6 +196,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arjunsakthi/leetcode_questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/arjunsakthi/leetcode_questions/tree/master/3447-clear-digits) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Hash Table
@@ -391,6 +393,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2792-neighboring-bitwise-xor](https://github.com/arjunsakthi/leetcode_questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arjunsakthi/leetcode_questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -686,6 +689,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arjunsakthi/leetcode_questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/arjunsakthi/leetcode_questions/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
 | ------- |
@@ -716,6 +720,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2699-count-the-number-of-fair-pairs](https://github.com/arjunsakthi/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arjunsakthi/leetcode_questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -759,6 +764,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0204-count-primes](https://github.com/arjunsakthi/leetcode_questions/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
@@ -818,6 +824,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0937-online-stock-span](https://github.com/arjunsakthi/leetcode_questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/arjunsakthi/leetcode_questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/arjunsakthi/leetcode_questions/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Divide and Conquer
 |  |

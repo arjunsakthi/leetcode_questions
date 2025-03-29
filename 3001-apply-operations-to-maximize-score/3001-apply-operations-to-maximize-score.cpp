@@ -76,7 +76,7 @@ private:
     int countPrimeFactors(int n) {
         int c = 0;
         for (int i = 2; i * i < n; i++) {
-            if (n % i == 0 && prime(i)) {
+            if (n % i == 0) {
                 c++;
                 while (n > 1 && n % i == 0) {
                     n = n / i;
@@ -86,15 +86,5 @@ private:
         if (n != 1)
             c++;
         return c;
-    }
-    bool prime(int n) {
-        int c = 0;
-        if (n == 1)
-            return false;
-        for (int i = 2; i * i <= n; i++) {
-            if (n % i == 0)
-                c++;
-        }
-        return c == 0;
     }
 };

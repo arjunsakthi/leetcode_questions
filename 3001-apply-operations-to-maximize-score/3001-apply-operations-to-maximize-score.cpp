@@ -12,8 +12,12 @@ public:
 
         for (int i = 0; i < nums.size(); i++) {
             int ele = primeCount[i];
-            while (!st.empty() && primeCount[st.top()] < ele)
+            while (!st.empty() && primeCount[st.top()] < ele){
+                int top = st.top();
                 st.pop();
+                rightEnd[top] = i;
+            }
+                
 
             if (st.empty()) {
                 leftEnd[i] = -1;
@@ -22,21 +26,13 @@ public:
             }
             st.push(i);
         }
-        while (!st.empty())
-            st.pop();
-
-        for (int i = nums.size() - 1; i >= 0; i--) {
-            int ele = primeCount[i];
-            while (!st.empty() && primeCount[st.top()] <= ele)
+        while (!st.empty()){
+            int top = st.top();
                 st.pop();
-
-            if (st.empty()) {
-                rightEnd[i] = nums.size();
-            } else {
-                rightEnd[i] = st.top();
-            }
-            st.push(i);
+                rightEnd[top] = nums.size();
         }
+
+      
         vector<long long> count(nums.size());
         for (int i = 0; i < nums.size(); i++) {
             count[i] = (i - leftEnd[i]) * 1LL * (rightEnd[i] - i);

@@ -54,7 +54,7 @@ public:
             pair<int, int> top = qu.top();
             qu.pop();
             ans =
-                (ans%mod * 1LL * power(top.first, (int)min(k*1LL, count[top.second]), mod)%mod)%
+                (ans * 1LL * power(top.first, (int)min(k*1LL, count[top.second]), mod))%
                 mod;
             k -= min(k*1LL, count[top.second]);
         }

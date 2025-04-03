@@ -396,6 +396,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2888-minimum-index-of-a-valid-split](https://github.com/arjunsakthi/leetcode_questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arjunsakthi/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |

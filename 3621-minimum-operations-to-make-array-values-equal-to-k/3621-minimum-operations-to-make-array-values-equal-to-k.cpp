@@ -1,18 +1,17 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        int mini = *min_element(nums.begin(),nums.end());
-        if(mini < k)    return -1;
-        sort(nums.begin(), nums.end());
-        int distinct=0;
-        int num=-1;
-        for(int i=0; i<nums.size(); i++){
-            if(num != nums[i])
-            {
-                distinct++;
-                num=nums[i];
-            }
+        unordered_map<int, int>mp;
+        int minVal = INT_MAX;
+        for(auto n : nums){
+            mp[n] = 1;
+            minVal = min(minVal, n);
         }
-        return mini == k ? distinct-1 : distinct;
+        if(minVal < k)
+            return -1;
+        // one op is change all same element at one time
+        int ans = mp.size();
+        if(mp[k]) ans--;
+        return ans;
     }
 };

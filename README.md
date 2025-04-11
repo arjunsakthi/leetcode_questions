@@ -59,6 +59,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [2716-prime-subtraction-operation](https://github.com/arjunsakthi/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arjunsakthi/leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arjunsakthi/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arjunsakthi/leetcode_questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arjunsakthi/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/arjunsakthi/leetcode_questions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -970,6 +971,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0204-count-primes](https://github.com/arjunsakthi/leetcode_questions/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arjunsakthi/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arjunsakthi/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
 |  |

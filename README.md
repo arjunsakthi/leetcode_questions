@@ -352,6 +352,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsakthi/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/arjunsakthi/leetcode_questions/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arjunsakthi/leetcode_questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arjunsakthi/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/arjunsakthi/leetcode_questions/tree/master/1694-make-sum-divisible-by-p) |
@@ -975,6 +976,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0204-count-primes](https://github.com/arjunsakthi/leetcode_questions/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0875-longest-mountain-in-array) |
+| [1656-count-good-triplets](https://github.com/arjunsakthi/leetcode_questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arjunsakthi/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arjunsakthi/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |

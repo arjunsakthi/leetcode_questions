@@ -116,6 +116,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arjunsakthi/leetcode_questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/arjunsakthi/leetcode_questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/arjunsakthi/leetcode_questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arjunsakthi/leetcode_questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/arjunsakthi/leetcode_questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/arjunsakthi/leetcode_questions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -368,6 +369,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1925-count-nice-pairs-in-an-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arjunsakthi/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/arjunsakthi/leetcode_questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arjunsakthi/leetcode_questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/arjunsakthi/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1046,6 +1048,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [1442-number-of-operations-to-make-network-connected](https://github.com/arjunsakthi/leetcode_questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/arjunsakthi/leetcode_questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arjunsakthi/leetcode_questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/arjunsakthi/leetcode_questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arjunsakthi/leetcode_questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arjunsakthi/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/arjunsakthi/leetcode_questions/tree/master/2438-find-closest-node-to-given-two-nodes) |

@@ -283,6 +283,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arjunsakthi/leetcode_questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/arjunsakthi/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arjunsakthi/leetcode_questions/tree/master/0057-insert-interval) |
@@ -437,6 +438,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -529,6 +531,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arjunsakthi/leetcode_questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/arjunsakthi/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arjunsakthi/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |

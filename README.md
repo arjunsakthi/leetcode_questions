@@ -293,6 +293,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0057-insert-interval](https://github.com/arjunsakthi/leetcode_questions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arjunsakthi/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/arjunsakthi/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arjunsakthi/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -903,6 +904,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arjunsakthi/leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arjunsakthi/leetcode_questions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/arjunsakthi/leetcode_questions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/arjunsakthi/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arjunsakthi/leetcode_questions/tree/master/0230-kth-smallest-element-in-a-bst) |

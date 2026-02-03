@@ -1,29 +1,26 @@
 class Solution {
 public:
-    void f(int &n, int i, vector<string> &ans, string temp) {
-        if (i == 2*n) {
-            int c = 0;
-            for(int i=0; i<temp.size(); i++) {
-                if (temp[i] == '(') c++;
-                else c--;
-                if (c < 0) return;
-            }
-            if(c == 0) ans.push_back(temp);
-            return;
-        }
-        temp.push_back('(');
-        f(n,i+1,ans,temp);
-        temp.pop_back();
-        temp.push_back(')');
-        f(n,i+1,ans,temp);
-        return;
-    }
-
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        int i=0;
-        string temp;
-        f(n,i,ans,temp);
+        string s;
+        fun(s, n, n, ans);
         return ans;
+    }
+
+    void fun(string& s, int open, int close, auto& ans){
+        if(open==0 && close==0) {
+            ans.push_back(s);
+            return ;
+        }
+        if(open<0 || close<0) return ;
+
+        if(close<open) return;
+
+        s.push_back('(');
+        fun(s, open-1, close, ans);
+        s.pop_back();
+        s.push_back(')');
+        fun(s, open, close-1, ans);
+        s.pop_back();
     }
 };

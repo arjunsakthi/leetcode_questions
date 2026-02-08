@@ -289,6 +289,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/arjunsakthi/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arjunsakthi/leetcode_questions/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/arjunsakthi/leetcode_questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/arjunsakthi/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arjunsakthi/leetcode_questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/arjunsakthi/leetcode_questions/tree/master/0056-merge-intervals) |
@@ -563,6 +564,7 @@ Let's decode LeetCode, one C++ problem at a time! 🎯
 | ------- |
 | [0022-generate-parentheses](https://github.com/arjunsakthi/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/arjunsakthi/leetcode_questions/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/arjunsakthi/leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/arjunsakthi/leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/arjunsakthi/leetcode_questions/tree/master/0494-target-sum) |
